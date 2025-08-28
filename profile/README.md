@@ -19,8 +19,8 @@
 |---|---|
 | zevorn | 社区微信交流群 |
 
-#### 开源技术交流 QQ 频道：
-搜索 pd87156915 [或扫描二维码][4]
+#### 开源技术交流 Telegram 频道：
+加入链接 https://t.me/gtoc_qemu
 
 [1]: https://www.bilibili.com/video/BV1MyyHYbEPa
 [2]: https://www.bilibili.com/video/BV1PmSEYtETA
