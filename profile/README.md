@@ -5,6 +5,10 @@
 <!-- 参考：https://shields.io/badges/static-badge -->
 <!-- [![](https://dcbadge.limes.#FB7299/api/server/EMJqcQCCpW)](https://discord.gg/EMJqcQCCpW) -->
 
+[![](https://img.shields.io/badge/JOIN%20QQ-GTOC%20%7C%20%E6%A0%BC%E7%BB%B4%E5%BC%80%E6%BA%90%E7%A4%BE%E5%8C%BA-brightgreen?style=for-the-badge&logo=QQ&logoColor=76bad9&label=Join%20QQ&color=76bad9)
+](https://qm.qq.com/q/heSPPC9De8)
+
+
 </div>
 
 格维开源社区（Gevico Tech Open Community，GTOC ），社区名称寓意“格物致知、多维创新、技术包容、社区开放”，以分享模拟器、虚拟化、编译器、操作系统等基础软件技术知识为目标，传播开源技术，布道开源文化。目前以社区群聊运营为主。
