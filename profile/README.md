@@ -7,7 +7,9 @@
 
 [![](https://img.shields.io/badge/JOIN%20QQ-GTOC%20%7C%20%E6%A0%BC%E7%BB%B4%E5%BC%80%E6%BA%90%E7%A4%BE%E5%8C%BA-brightgreen?style=for-the-badge&logo=QQ&logoColor=76bad9&label=Join%20QQ&color=76bad9)
 ](https://qm.qq.com/q/heSPPC9De8)
-[![Static Badge](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-GTOC%20%7C%20%E6%A0%BC%E7%BB%B4%E5%BC%80%E6%BA%90%E7%A4%BE%E5%8C%BA-bright?style=for-the-badge&logo=wechat&logoColor=06cb64E&color=06cb64E)](https://mp.weixin.qq.com/s/XKfIv0Qjduq8JeHIiQBtrg)
+[![](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-GTOC%20%7C%20%E6%A0%BC%E7%BB%B4%E5%BC%80%E6%BA%90%E7%A4%BE%E5%8C%BA-bright?style=for-the-badge&logo=wechat&logoColor=06cb64E&color=06cb64E)](https://mp.weixin.qq.com/s/XKfIv0Qjduq8JeHIiQBtrg)
+
+
 
 </div>
 
