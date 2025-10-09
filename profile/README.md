@@ -1,11 +1,9 @@
 <div align="center">
 
-<img src="https://github.com/gevico/.github/blob/main/profile/images/header.png" style="width:60%">
+<img src="https://github.com/gevico/.github/blob/main/profile/images/header.png" style="width:100%">
 
 <!-- 参考：https://shields.io/badges/static-badge -->
 <!-- [![](https://dcbadge.limes.#FB7299/api/server/EMJqcQCCpW)](https://discord.gg/EMJqcQCCpW) -->
-
-<h1>格维开源社区（GTOC）</h1>
 
 </div>
 
