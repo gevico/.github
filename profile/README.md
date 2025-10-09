@@ -1,4 +1,13 @@
-# 格维开源社区(GTOC)
+<div align="center">
+
+<img src="https://github.com/gevico/.github/blob/main/profile/images/header.png" style="width:60%">
+
+<!-- 参考：https://shields.io/badges/static-badge -->
+<!-- [![](https://dcbadge.limes.#FB7299/api/server/EMJqcQCCpW)](https://discord.gg/EMJqcQCCpW) -->
+
+<h1>格维开源社区（GTOC）</h1>
+
+</div>
 
 格维开源社区（Gevico Tech Open Community，GTOC ），社区名称寓意“格物致知、多维创新、技术包容、社区开放”，以分享模拟器、虚拟化、编译器、操作系统等基础软件技术知识为目标，传播开源技术，布道开源文化。目前以社区群聊运营为主。
 
