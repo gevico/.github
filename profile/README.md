@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://github.com/gevico/.github/blob/main/profile/images/header.png" style="width:100%">
+<img width="3000" height="900" alt="GTOC head (1)" src="https://github.com/user-attachments/assets/c489c831-430e-43b0-a4fd-63b9f298519f" />
+
+---
 
 <!-- 参考：https://shields.io/badges/static-badge -->
 <!-- [![](https://dcbadge.limes.#FB7299/api/server/EMJqcQCCpW)](https://discord.gg/EMJqcQCCpW) -->
