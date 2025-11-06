@@ -1,6 +1,6 @@
 <div align="center">
-
-<img width="3000" height="900" alt="GTOC head (1)" src="https://github.com/user-attachments/assets/c489c831-430e-43b0-a4fd-63b9f298519f" />
+  
+<img width="3125" height="938" alt="GTOC 文章动图 (2)" src="https://github.com/user-attachments/assets/3ce79ae4-f105-42cd-95a9-18f9e8b6916d" />
 
 ---
 
