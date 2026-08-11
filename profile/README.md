@@ -19,5 +19,5 @@
 
 [![GTOC Forum](https://github.com/user-attachments/assets/4f7d175a-7c35-4419-b6de-74af3f7c28c1)](https://gevico.github.io/gtoc-forum/)
 
-[![Learing QEMU](https://github.com/user-attachments/assets/65e057f3-6d2b-49b9-ac54-8b1ffb08691f)](https://gevico.github.io/learning-qemu-docs/)
+[![Learing QEMU](https://github.com/user-attachments/assets/65e057f3-6d2b-49b9-ac54-8b1ffb08691f)](https://qemu.gevico.online)
 
