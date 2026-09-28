@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" alt="格维开源社区 · Gevico Tech Open Community" src="https://github.com/user-attachments/assets/3ce79ae4-f105-42cd-95a9-18f9e8b6916d" />
+<a href="https://gevico.online/"><img width="100%" alt="格维开源社区 · 格物致知，多维创新" src="https://raw.githubusercontent.com/gevico/.github/main/profile/images/community-cover.png" /></a>
 
 # 格维开源社区
 
