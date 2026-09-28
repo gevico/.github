@@ -29,12 +29,12 @@
             <p>从 QEMU 出发，动手探索 AI Infra。</p>
         </td>
         <td width="50%" align="center" valign="middle">
-            <a href="https://qemu.gevico.online/"><img src="https://raw.githubusercontent.com/gevico/.github/main/profile/images/qemu-camp-cover.svg" width="100%" alt="QEMU 训练营" /></a>
+            <a href="https://qemu.gevico.online/"><img src="https://raw.githubusercontent.com/gevico/.github/main/profile/images/qemu-camp-cover.png" width="100%" alt="QEMU 训练营" /></a>
         </td>
     </tr>
     <tr>
         <td width="50%" align="center" valign="middle">
-            <a href="https://github.com/oh-infra"><img src="https://raw.githubusercontent.com/gevico/.github/main/profile/images/oh-my-infra-cover.svg" width="100%" alt="Oh My Infra" /></a>
+            <a href="https://github.com/oh-infra"><img src="https://raw.githubusercontent.com/gevico/.github/main/profile/images/oh-my-infra-cover.png" width="100%" alt="Oh My Infra" /></a>
         </td>
         <td width="50%" valign="middle">
             <h3><a href="https://github.com/oh-infra">Oh My Infra</a></h3>
@@ -47,12 +47,12 @@
             <p>分享技术，交流实践。</p>
         </td>
         <td width="50%" align="center" valign="middle">
-            <a href="https://forum.gevico.online/"><img src="https://raw.githubusercontent.com/gevico/.github/main/profile/images/gtoc-forum-cover.svg" width="100%" alt="GTOC Forum" /></a>
+            <a href="https://forum.gevico.online/"><img src="https://raw.githubusercontent.com/gevico/.github/main/profile/images/gtoc-forum-cover.png" width="100%" alt="GTOC Forum" /></a>
         </td>
     </tr>
     <tr>
         <td width="50%" align="center" valign="middle">
-            <a href="https://github.com/gevico/cosim-gpu"><img src="https://raw.githubusercontent.com/gevico/.github/main/profile/images/cosim-gpu-cover.svg" width="100%" alt="cosim-gpu" /></a>
+            <a href="https://github.com/gevico/cosim-gpu"><img src="https://raw.githubusercontent.com/gevico/.github/main/profile/images/cosim-gpu-cover.png" width="100%" alt="cosim-gpu" /></a>
         </td>
         <td width="50%" valign="middle">
             <h3><a href="https://github.com/gevico/cosim-gpu">cosim-gpu</a></h3>
