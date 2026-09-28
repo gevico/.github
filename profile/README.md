@@ -20,15 +20,13 @@
 
 ## 探索社区
 
-我们的子组织与社区项目，覆盖学习实践、技术交流与仿真研究。选择感兴趣的方向，从这里开始。
+一起学习、分享，动手做开源。
 
 <table width="100%">
     <tr>
         <td width="50%" valign="middle">
-            <p><sub>子组织 · 学习与实践</sub></p>
             <h3><a href="https://qemu.gevico.online/">QEMU 训练营</a></h3>
-            <p>以模拟器与虚拟化技术为底座的 AI Infra 学习平台。讲义、实验与项目实践免费开放。</p>
-            <p><a href="https://qemu.gevico.online/">学习网站</a> · <a href="https://github.com/qemu-camp">GitHub</a></p>
+            <p>从 QEMU 出发，动手探索 AI Infra。</p>
         </td>
         <td width="50%" align="center" valign="middle">
             <a href="https://qemu.gevico.online/"><img src="https://raw.githubusercontent.com/gevico/.github/main/profile/images/qemu-camp-cover.svg" width="100%" alt="QEMU 训练营" /></a>
@@ -39,18 +37,14 @@
             <a href="https://github.com/oh-infra"><img src="https://raw.githubusercontent.com/gevico/.github/main/profile/images/oh-my-infra-cover.svg" width="100%" alt="Oh My Infra" /></a>
         </td>
         <td width="50%" valign="middle">
-            <p><sub>子组织 · 社区协作</sub></p>
             <h3><a href="https://github.com/oh-infra">Oh My Infra</a></h3>
-            <p>格维开源社区的子组织。访问组织主页，关注后续公开的项目与动态。</p>
-            <p><a href="https://github.com/oh-infra">GitHub</a></p>
+            <p>一起动手，共建 Infra。</p>
         </td>
     </tr>
     <tr>
         <td width="50%" valign="middle">
-            <p><sub>社区项目 · 技术交流</sub></p>
             <h3><a href="https://forum.gevico.online/">GTOC Forum</a></h3>
-            <p>社区成员发起的线上技术分享论坛。浏览往期分享与会议资料，也欢迎带着自己的议题加入。</p>
-            <p><a href="https://forum.gevico.online/">论坛网站</a> · <a href="https://github.com/gevico/gtoc-forum">资料仓库</a> · <a href="https://github.com/gevico/gtoc-forum/issues">申报议题</a></p>
+            <p>分享技术，交流实践。</p>
         </td>
         <td width="50%" align="center" valign="middle">
             <a href="https://forum.gevico.online/"><img src="https://raw.githubusercontent.com/gevico/.github/main/profile/images/gtoc-forum-cover.svg" width="100%" alt="GTOC Forum" /></a>
@@ -61,10 +55,8 @@
             <a href="https://github.com/gevico/cosim-gpu"><img src="https://raw.githubusercontent.com/gevico/.github/main/profile/images/cosim-gpu-cover.svg" width="100%" alt="cosim-gpu" /></a>
         </td>
         <td width="50%" valign="middle">
-            <p><sub>社区项目 · GPU 联合仿真</sub></p>
             <h3><a href="https://github.com/gevico/cosim-gpu">cosim-gpu</a></h3>
-            <p>连接 QEMU 与 gem5，面向 AMD MI300X，在无需实体 GPU 的环境中运行 ROCm / HIP 工作负载。</p>
-            <p><a href="https://github.com/gevico/cosim-gpu">源码</a> · <a href="https://github.com/gevico/cosim-gpu/blob/main/README.zh.md">中文文档</a> · <a href="https://github.com/gevico/cosim-gpu/issues">问题反馈</a></p>
+            <p>连接 QEMU 与 gem5，探索 GPU 联合仿真。</p>
         </td>
     </tr>
 </table>
