@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="300" viewBox="0 0 600 300" role="img" aria-labelledby="title desc">
+    <title id="title">cosim-gpu</title>
+    <desc id="desc">QEMU + gem5 / GPU CO-SIMULATION</desc>
+    <rect width="600" height="300" rx="16" fill="#101923"/>
+    <path d="M450 0v300M500 0v300M550 0v300M400 50h200M400 100h200M400 150h200M400 200h200M400 250h200" stroke="#ffbf7a" stroke-opacity="0.06"/>
+    <g font-family="Arial, Helvetica, sans-serif">
+        <text x="40" y="44" fill="#ffbf7a" font-size="12" letter-spacing="3">GEVICO / OPEN COMMUNITY</text>
+        <text x="40" y="112" fill="#f0f6fc" font-size="44" font-weight="700">cosim-gpu</text>
+        <text x="40" y="146" fill="#a7b6c5" font-size="13" letter-spacing="1">QEMU + gem5 / GPU CO-SIMULATION</text>
+        <path d="M192 223h24m152 0h24" stroke="#ffbf7a" stroke-width="2"/>
+        <rect x="40" y="197" width="152" height="52" rx="10" fill="#ffbf7a" fill-opacity="0.08" stroke="#ffbf7a" stroke-opacity="0.5"/><text x="116" y="229" text-anchor="middle" fill="#ffbf7a" font-size="17">QEMU</text>
+    <rect x="216" y="197" width="152" height="52" rx="10" fill="#ffbf7a" fill-opacity="0.08" stroke="#ffbf7a" stroke-opacity="0.5"/><text x="292" y="229" text-anchor="middle" fill="#ffbf7a" font-size="17">vfio-user</text>
+    <rect x="392" y="197" width="152" height="52" rx="10" fill="#ffbf7a" fill-opacity="0.08" stroke="#ffbf7a" stroke-opacity="0.5"/><text x="468" y="229" text-anchor="middle" fill="#ffbf7a" font-size="17">gem5</text>
+    </g>
+</svg>
